@@ -1,6 +1,6 @@
 Exercise resolved:
 
-https://docs.google.com/spreadsheets/d/1kamyFjqAjGsoFoa-xdUTu2JaC7mqk-s4-c-Se7hFTXk/edit#gid=0
+https://docs.google.com/spreadsheets/d/1kamyFjqAjGsoFoa-xdUTu2JaC7mqk-s4-c-Se7hFTXk/edit?usp=sharing
 
 # QA Exercise
 
