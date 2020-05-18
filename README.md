@@ -1,3 +1,7 @@
+Exercise resolved:
+
+https://docs.google.com/spreadsheets/d/1kamyFjqAjGsoFoa-xdUTu2JaC7mqk-s4-c-Se7hFTXk/edit#gid=0
+
 # QA Exercise
 
 ### Objetivo
